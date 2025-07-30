@@ -94,7 +94,7 @@ clonacion_bash_catinfog () {
 rm -rf ~/bashcatinfog
 rm -rf ~/bash
 
-git clone githubssh:zaqueoae/bashcatinfog.git ~/bashcatinfog
+git clone githubssh:remero41/bash.git ~/bashcatinfog
 
 }
 
